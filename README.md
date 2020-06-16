@@ -1,5 +1,5 @@
 # Python For Everybody Specialization
-This repository contains my solutions the following courses of the Python For Everybody Specialization of the University of Michigan via Coursera:
+This repository contains my solutions for each of the following courses of the Python For Everybody Specialization of the University of Michigan via Coursera:
 
 Course | Course Name | Status | 
 ---------- |---------- | ----------
