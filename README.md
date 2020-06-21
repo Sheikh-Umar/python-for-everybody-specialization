@@ -5,8 +5,8 @@ Course | Course Name | Status |
 ---------- |---------- | ----------
 1 | Programming for Everybody (Getting Started with Python) | Completed
 2 | Python Data Structures | Completed
-3 | Using Python to Access Web Data | In-Progress
-4 | Using Databases with Python | -
+3 | Using Python to Access Web Data | Completed
+4 | Using Databases with Python | In-Progress
 5 | Capstone: Retrieving, Processing, and Visualizing Data with Python | -
 
 Course Link: https://www.coursera.org/specializations/python
